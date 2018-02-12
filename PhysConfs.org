@@ -1,7 +1,7 @@
 
 File: *PhysConfs.org*
 
-_*Listing of Physics Conferences*_
+_Listing of Physics Conferences_
 
 This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed (with full functionality) in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
 
@@ -53,7 +53,7 @@ To add a new entry, simply:
 | Location: Univ/Inst |                              |
 |---------------------+------------------------------|
 | Web link            |                              |
-|---------------------+------------------------------|
+
 
 *** Description
 
@@ -91,8 +91,6 @@ To add a new entry, simply:
 ** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
    SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
 
-|---------------------+-------------------------------------------------|
-|---------------------+-------------------------------------------------|
 | Subject tags        | CT, HT, MP                                      |
 |---------------------+-------------------------------------------------|
 | Dates               | [2018-09-10] to [2018-09-14]                    |
@@ -104,7 +102,6 @@ To add a new entry, simply:
 | Location: Univ/Inst |                                                 |
 |---------------------+-------------------------------------------------|
 | Web link            | http://lapth.cnrs.fr/conferences/RAQIS/RAQIS18/ |
-|---------------------+-------------------------------------------------|
 
 *** Description
 These international meetings aim at bringing in contact people working on various aspects of the Theory of Quantum Integrable Systems. Applications of Integrable Systems, such as string/gauge theories, condensed matter physics or statistical physics are also emphasized.
