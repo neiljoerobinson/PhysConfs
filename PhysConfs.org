@@ -1,21 +1,20 @@
 
-PhysConfs.org
+*PhysConfs.org*
 
-Listing of Physics Conferences
+*Listing of Physics Conferences*
 
 This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
 
 
-Table of Contents:
+*Table of Contents:*
 
-
-|-----------+---------------------|
-| [[#README][README]]    | Basic usage         |
-| [[#Templates][Templates]] | Templates           |
-| [[#ConfTags][Tags]]  | Tags                |
-|-----------+---------------------|
-| [[#Confs2018][2018]]      | Conferences in 2018 |
-|-----------+---------------------|
+|--------------+---------------------|
+| [[#README][README]]       | Basic usage         |
+| [[#Templates][Templates]]    | Templates           |
+| [[#ConfTags][Subject tags]] | Subject tags        |
+|--------------+---------------------|
+| [[#Confs2018][2018]]         | Conferences in 2018 |
+|--------------+---------------------|
 
 
 * README
