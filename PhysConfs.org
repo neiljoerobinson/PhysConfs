@@ -1,7 +1,7 @@
 
 File: *PhysConfs.org*
 
-_Listing of Physics Conferences_
+*Listing of Physics Conferences*
 
 This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed (with full functionality) in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
 
@@ -43,15 +43,10 @@ To add a new entry, simply:
 
 
 | Subject tags        |                              |
-|---------------------+------------------------------|
 | Dates               | [YYYY-MM-DD] to [YYYY-MM-DD] |
-|---------------------+------------------------------|
 | Location: Country   |                              |
-|---------------------+------------------------------|
 | Location: City      |                              |
-|---------------------+------------------------------|
 | Location: Univ/Inst |                              |
-|---------------------+------------------------------|
 | Web link            |                              |
 
 
@@ -92,15 +87,10 @@ To add a new entry, simply:
    SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
 
 | Subject tags        | CT, HT, MP                                      |
-|---------------------+-------------------------------------------------|
 | Dates               | [2018-09-10] to [2018-09-14]                    |
-|---------------------+-------------------------------------------------|
 | Location: Country   | France                                          |
-|---------------------+-------------------------------------------------|
 | Location: City      | Annecy                                          |
-|---------------------+-------------------------------------------------|
 | Location: Univ/Inst |                                                 |
-|---------------------+-------------------------------------------------|
 | Web link            | http://lapth.cnrs.fr/conferences/RAQIS/RAQIS18/ |
 
 *** Description
