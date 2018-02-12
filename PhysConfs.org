@@ -1,18 +1,20 @@
 
-*PhysConfs.org*
+File: *PhysConfs.org*
 
-*Listing of Physics Conferences*
+_*Listing of Physics Conferences*_
 
-This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
+This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed (with full functionality) in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
+
+_Note_: GitHub's rendering of org files is incomplete. In particular, you will not be able to collapse, search for tags, profit from calendar views etc. To get full functionality, view/edit this file in your emacs editor (and manage your git workflow with the superb [[https://magit.vc][magit]] interface).
 
 
 *Table of Contents:*
 
 |--------------+---------------------|
+|--------------+---------------------|
 | [[#README][README]]       | Basic usage         |
 | [[#Templates][Templates]]    | Templates           |
 | [[#SubjectTags][Subject tags]] | Subject tags        |
-|--------------+---------------------|
 | [[#Confs2018][2018]]         | Conferences in 2018 |
 |--------------+---------------------|
 
@@ -22,13 +24,14 @@ This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikip
   :CUSTOM_ID: README
   :END:
 
-** Basics
 
 ** Contributing
 To add a new entry, simply:
 - copy the PhysConfName [[#Templates][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
-- give your entry some informative [[#SubjectTags][subject tags]]
-- fill in scheduled from/until dates: provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
+- give your entry some informative [[#SubjectTags][subject tags]] both in the table, and as orgmode tags (C-c C-q)
+- fill in scheduled from/until dates:
+  - give a timestamp to the entry (C-c C-s), with dates in format <YYYY-MM-DD>--<YYYY-MM-DD> (orgmode active timestamps
+  - in the table, provide dates in format [YYYY-MM-DD]--[YYYY-MM-DD] (orgmode inactive timestamps)
 - fill in Location (Country, City, University/Institution)
 - provide the weblink
 - copy the Description into the Description heaadline
@@ -41,6 +44,7 @@ To add a new entry, simply:
 ** (PhysConfName)
 
 
+|---------------------+------------------------------|
 |---------------------+------------------------------|
 | Subject tags        |                              |
 |---------------------+------------------------------|
@@ -88,7 +92,8 @@ To add a new entry, simply:
   :END:
 
 
-** RAQIS'18: Recent Advances in Quantum Integrable Systems
+** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
+   SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
 
 |---------------------+-------------------------------------------------|
 | Subject tags        | CT, HT, MP                                      |
