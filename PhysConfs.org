@@ -1,0 +1,108 @@
+
+PhysConfs.org
+
+Listing of Physics Conferences
+
+This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikipedia.org/wiki/Org-mode][Wikipedia entry]]), best viewed in [[https://www.gnu.org/software/emacs/][emacs]] but also usable with other editors.
+
+
+Table of Contents:
+
+
+|-----------+---------------------|
+| [[#README][README]]    | Basic usage         |
+| [[#Templates][Templates]] | Templates           |
+| [[#Tags][Tags]]      | Tags                |
+|-----------+---------------------|
+| [[#Confs2018][2018]]      | Conferences in 2018 |
+|-----------+---------------------|
+
+
+* README
+  :PROPERTIES:
+  :CUSTOM_ID: README
+  :END:
+
+** Basics
+
+** Contributing
+To add a new entry, simply:
+- copy the [[#TemplatePhysConf][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
+- give your entry some informative [[#Tags][tags]]
+- fill in scheduled from/until dates: invoke C-c C-s, provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
+- in the table, fill in Location (Country, City, University/Institution)
+- in the table, provide the weblink
+- copy the Description into the Description heaadline
+
+
+* Templates
+  :PROPERTIES:
+  :CUSTOM_ID: Templates
+  :END:
+** (PhysConfName)
+   SCHEDULED: <2018-02-12 Mon>--<2018-02-16 Fri>
+   :PROPERTIES:
+   :CUSTOM_ID: TemplatePhysConf
+   :END:
+
+|---------------------+---|
+| Location: Country   |   |
+|---------------------+---|
+| Location: City      |   |
+|---------------------+---|
+| Location: Univ/Inst |   |
+|---------------------+---|
+| Web link            |   |
+|---------------------+---|
+
+*** Description
+
+
+
+* Tags
+  :PROPERTIES:
+  :CUSTOM_ID: Tags
+  :END:
+
+| AE | Atomic, Molecular and Optical Physics - Experiment |
+| AT | Atomic, Molecular and Optical Physics - Theory     |
+| BI | Biophysics                                         |
+| CE | Condensed Matter Physics Experiment                |
+| CT | Condensed Matter Physics Theory                    |
+| FD | Fluid Dynamics                                     |
+| GR | Gravitation, Cosmology and Astroparticle Physics   |
+| SM | Statistical and Soft Matter Physics                |
+| HE | High-Energy Physics - Experiment                   |
+| HT | High-Energy Physics- Theory                        |
+| HP | High-Energy Physics Phenomenology                  |
+| MP | Mathematical Physics                               |
+| NE | Nuclear Physics - Experiment                       |
+| NT | Nuclear Physics - Theory                           |
+| PL | Plasma Physics                                     |
+| QP | Quantum Physics                                    |
+
+
+* 2018
+  :PROPERTIES:
+  :CUSTOM_ID: Confs2018
+  :END:
+
+
+** RAQIS'18: Recent Advances in Quantum Integrable Systems
+   SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
+   :PROPERTIES:
+   :CUSTOM_ID: TemplatePhysConf
+   :END:
+
+|---------------------+-------------------------------------------------|
+| Location: Country   | France                                          |
+|---------------------+-------------------------------------------------|
+| Location: City      | Annecy                                          |
+|---------------------+-------------------------------------------------|
+| Location: Univ/Inst |                                                 |
+|---------------------+-------------------------------------------------|
+| Web link            | http://lapth.cnrs.fr/conferences/RAQIS/RAQIS18/ |
+|---------------------+-------------------------------------------------|
+
+*** Description
+Recent Advances in Quantum Integrable Systems
