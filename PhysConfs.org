@@ -30,8 +30,8 @@ To add a new entry, simply:
 - copy the [[#TemplatePhysConf][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
 - give your entry some informative [[#Tags][tags]]
 - fill in scheduled from/until dates: provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
-- in the table, fill in Location (Country, City, University/Institution)
-- in the table, provide the weblink
+- fill in Location (Country, City, University/Institution)
+- provide the weblink
 - copy the Description into the Description heaadline
 
 
@@ -44,17 +44,19 @@ To add a new entry, simply:
    :CUSTOM_ID: TemplatePhysConf
    :END:
 
-|---------------------+--------------------------|
-| Dates               | YYYY-MM-DD to YYYY-MM-DD |
-|---------------------+--------------------------|
-| Location: Country   |                          |
-|---------------------+--------------------------|
-| Location: City      |                          |
-|---------------------+--------------------------|
-| Location: Univ/Inst |                          |
-|---------------------+--------------------------|
-| Web link            |                          |
-|---------------------+--------------------------|
+|---------------------+------------------------------|
+| Tags                |                              |
+|---------------------+------------------------------|
+| Dates               | [YYYY-MM-DD] to [YYYY-MM-DD] |
+|---------------------+------------------------------|
+| Location: Country   |                              |
+|---------------------+------------------------------|
+| Location: City      |                              |
+|---------------------+------------------------------|
+| Location: Univ/Inst |                              |
+|---------------------+------------------------------|
+| Web link            |                              |
+|---------------------+------------------------------|
 
 *** Description
 
@@ -89,13 +91,15 @@ To add a new entry, simply:
   :END:
 
 
-** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
+** RAQIS'18: Recent Advances in Quantum Integrable Systems
    :PROPERTIES:
    :CUSTOM_ID: TemplatePhysConf
    :END:
 
 |---------------------+-------------------------------------------------|
-| Dates               | 2018-09-10 to 2018-09-14                        |
+| Tags                | CT, HT, MP                                      |
+|---------------------+-------------------------------------------------|
+| Dates               | [2018-09-10] to [2018-09-14]                    |
 |---------------------+-------------------------------------------------|
 | Location: Country   | France                                          |
 |---------------------+-------------------------------------------------|
