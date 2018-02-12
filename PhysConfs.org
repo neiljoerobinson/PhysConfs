@@ -12,7 +12,7 @@ Table of Contents:
 |-----------+---------------------|
 | [[#README][README]]    | Basic usage         |
 | [[#Templates][Templates]] | Templates           |
-| [[#Tags][Tags]]      | Tags                |
+| [[#ConfTags][Tags]]  | Tags                |
 |-----------+---------------------|
 | [[#Confs2018][2018]]      | Conferences in 2018 |
 |-----------+---------------------|
@@ -29,7 +29,7 @@ Table of Contents:
 To add a new entry, simply:
 - copy the [[#TemplatePhysConf][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
 - give your entry some informative [[#Tags][tags]]
-- fill in scheduled from/until dates: invoke C-c C-s, provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
+- fill in scheduled from/until dates: provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
 - in the table, fill in Location (Country, City, University/Institution)
 - in the table, provide the weblink
 - copy the Description into the Description heaadline
@@ -40,20 +40,21 @@ To add a new entry, simply:
   :CUSTOM_ID: Templates
   :END:
 ** (PhysConfName)
-   SCHEDULED: <2018-02-12 Mon>--<2018-02-16 Fri>
    :PROPERTIES:
    :CUSTOM_ID: TemplatePhysConf
    :END:
 
-|---------------------+---|
-| Location: Country   |   |
-|---------------------+---|
-| Location: City      |   |
-|---------------------+---|
-| Location: Univ/Inst |   |
-|---------------------+---|
-| Web link            |   |
-|---------------------+---|
+|---------------------+--------------------------|
+| Dates               | YYYY-MM-DD to YYYY-MM-DD |
+|---------------------+--------------------------|
+| Location: Country   |                          |
+|---------------------+--------------------------|
+| Location: City      |                          |
+|---------------------+--------------------------|
+| Location: Univ/Inst |                          |
+|---------------------+--------------------------|
+| Web link            |                          |
+|---------------------+--------------------------|
 
 *** Description
 
@@ -61,7 +62,7 @@ To add a new entry, simply:
 
 * Tags
   :PROPERTIES:
-  :CUSTOM_ID: Tags
+  :CUSTOM_ID: ConfTags
   :END:
 
 | AE | Atomic, Molecular and Optical Physics - Experiment |
@@ -88,12 +89,13 @@ To add a new entry, simply:
   :END:
 
 
-** RAQIS'18: Recent Advances in Quantum Integrable Systems
-   SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
+** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
    :PROPERTIES:
    :CUSTOM_ID: TemplatePhysConf
    :END:
 
+|---------------------+-------------------------------------------------|
+| Dates               | 2018-09-10 to 2018-09-14                        |
 |---------------------+-------------------------------------------------|
 | Location: Country   | France                                          |
 |---------------------+-------------------------------------------------|
@@ -105,4 +107,5 @@ To add a new entry, simply:
 |---------------------+-------------------------------------------------|
 
 *** Description
-Recent Advances in Quantum Integrable Systems
+These international meetings aim at bringing in contact people working on various aspects of the Theory of Quantum Integrable Systems. Applications of Integrable Systems, such as string/gauge theories, condensed matter physics or statistical physics are also emphasized.
+The RAQIS' meetings occur roughly every two years. The first ones were held in LAPTh, Annecy-le-Vieux, in March 2003 (See RAQIS'03), September 2005 (See RAQIS'05), September 2007 (See RAQIS'07) and June 2010 (See RAQIS'10). In September 2012, it was held in Angers (co-organized with LAREMA), see RAQIS'12. In September 2014, the RAQIS'14 conference (co-organized with IMB) took place in Dijon. In August 2016, the RAQIS'16 conference was held in Geneva (co-organized with the University of Geneva).
