@@ -26,7 +26,7 @@ This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikip
 
 ** Contributing
 To add a new entry, simply:
-- copy the [[#TemplatePhysConf][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
+- copy the PhysConfName [[#Templates][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
 - give your entry some informative [[#SubjectTags][subject tags]]
 - fill in scheduled from/until dates: provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
 - fill in Location (Country, City, University/Institution)
@@ -39,9 +39,7 @@ To add a new entry, simply:
   :CUSTOM_ID: Templates
   :END:
 ** (PhysConfName)
-   :PROPERTIES:
-   :CUSTOM_ID: TemplatePhysConf
-   :END:
+
 
 |---------------------+------------------------------|
 | Subject tags        |                              |
@@ -91,12 +89,9 @@ To add a new entry, simply:
 
 
 ** RAQIS'18: Recent Advances in Quantum Integrable Systems
-   :PROPERTIES:
-   :CUSTOM_ID: TemplatePhysConf
-   :END:
 
 |---------------------+-------------------------------------------------|
-| Tags                | CT, HT, MP                                      |
+| Subject tags        | CT, HT, MP                                      |
 |---------------------+-------------------------------------------------|
 | Dates               | [2018-09-10] to [2018-09-14]                    |
 |---------------------+-------------------------------------------------|
