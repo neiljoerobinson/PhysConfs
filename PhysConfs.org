@@ -11,7 +11,7 @@ This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikip
 |--------------+---------------------|
 | [[#README][README]]       | Basic usage         |
 | [[#Templates][Templates]]    | Templates           |
-| [[#ConfTags][Subject tags]] | Subject tags        |
+| [[#SubjectTags][Subject tags]] | Subject tags        |
 |--------------+---------------------|
 | [[#Confs2018][2018]]         | Conferences in 2018 |
 |--------------+---------------------|
@@ -27,7 +27,7 @@ This file is in [[https://orgmode.org][org-mode]] format (see [[https://en.wikip
 ** Contributing
 To add a new entry, simply:
 - copy the [[#TemplatePhysConf][template]] to the appropriate [YEAR] headline (order: date decreasing, i.e.: futuremost = topmost)
-- give your entry some informative [[#Tags][tags]]
+- give your entry some informative [[#SubjectTags][subject tags]]
 - fill in scheduled from/until dates: provide dates in format <YYYY-MM-DD>--<YYYY-MM-DD>
 - fill in Location (Country, City, University/Institution)
 - provide the weblink
@@ -44,7 +44,7 @@ To add a new entry, simply:
    :END:
 
 |---------------------+------------------------------|
-| Tags                |                              |
+| Subject tags        |                              |
 |---------------------+------------------------------|
 | Dates               | [YYYY-MM-DD] to [YYYY-MM-DD] |
 |---------------------+------------------------------|
@@ -61,9 +61,9 @@ To add a new entry, simply:
 
 
 
-* Tags
+* Subject tags
   :PROPERTIES:
-  :CUSTOM_ID: ConfTags
+  :CUSTOM_ID: SubjectTags
   :END:
 
 | AE | Atomic, Molecular and Optical Physics - Experiment |
