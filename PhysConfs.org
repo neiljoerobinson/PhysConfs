@@ -10,13 +10,11 @@ _Note_: GitHub's rendering of org files is incomplete. In particular, you will n
 
 *Table of Contents:*
 
-|--------------+---------------------|
-|--------------+---------------------|
 | [[#README][README]]       | Basic usage         |
 | [[#Templates][Templates]]    | Templates           |
 | [[#SubjectTags][Subject tags]] | Subject tags        |
 | [[#Confs2018][2018]]         | Conferences in 2018 |
-|--------------+---------------------|
+
 
 
 * README
@@ -44,8 +42,6 @@ To add a new entry, simply:
 ** (PhysConfName)
 
 
-|---------------------+------------------------------|
-|---------------------+------------------------------|
 | Subject tags        |                              |
 |---------------------+------------------------------|
 | Dates               | [YYYY-MM-DD] to [YYYY-MM-DD] |
@@ -95,6 +91,7 @@ To add a new entry, simply:
 ** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
    SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
 
+|---------------------+-------------------------------------------------|
 |---------------------+-------------------------------------------------|
 | Subject tags        | CT, HT, MP                                      |
 |---------------------+-------------------------------------------------|
