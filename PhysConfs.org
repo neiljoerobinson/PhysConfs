@@ -82,7 +82,6 @@ To add a new entry, simply:
   :CUSTOM_ID: Confs2018
   :END:
 
-
 ** RAQIS'18: Recent Advances in Quantum Integrable Systems	   :CT:HT:MP:
    SCHEDULED: <2018-09-10 Mon>--<2018-09-14 Fri>
 
@@ -96,3 +95,50 @@ To add a new entry, simply:
 *** Description
 These international meetings aim at bringing in contact people working on various aspects of the Theory of Quantum Integrable Systems. Applications of Integrable Systems, such as string/gauge theories, condensed matter physics or statistical physics are also emphasized.
 The RAQIS' meetings occur roughly every two years. The first ones were held in LAPTh, Annecy-le-Vieux, in March 2003 (See RAQIS'03), September 2005 (See RAQIS'05), September 2007 (See RAQIS'07) and June 2010 (See RAQIS'10). In September 2012, it was held in Angers (co-organized with LAREMA), see RAQIS'12. In September 2014, the RAQIS'14 conference (co-organized with IMB) took place in Dijon. In August 2016, the RAQIS'16 conference was held in Geneva (co-organized with the University of Geneva).
+
+
+** Beg Rohu Summer School: Deep Learning and Statistical Physics   :CT:SM:
+| Subject tags        | CT, SM                         |
+| Dates               | [2018-06-25] to [2018-07-07]   |
+| Location: Country   | France                         |
+| Location: City      | Beg Rohu                       |
+| Location: Univ/Inst | French National Sailing School |
+| Web link            | http://ipht.fr/begrohu         |
+
+*** Description
+The aim of the school is twofold: providing for the participants a solid and advanced knowledge of main topics
+in statistical physics and condensed matter, but also giving rise to interactions between confirmed researchers. 
+Ideally, the outcome of each session will be a boost in the research subjects covered by the lectures both because 
+of the excellent training and of the emergence of fruitful interactions between participants. To this aim, each lecture 
+progressively goes from the basics to the current research edge. Lectures and professors are chosen so that the topic 
+of the session is tackled from different points of view; questions and answers sessions are organized in order to foster 
+interactions between students and lecturers.
+	     
+** Gordon Research Conference: Entanglement and Coherence in Quantum Materials     :CT:CE:
+
+| Subject tags        | CT, CE                                                           |
+| Dates               | [2018-06-24] to [2018-06-29]                                     |
+| Location: Country   | United States of America                                         |
+| Location: City      | South Hadley, MA                                                 |
+| Location: Univ/Inst | Mount Holyoke College                                            |
+| Web link            | https://www.grc.org/correlated-electron-systems-conference/2018/ |
+
+*** Description
+As the electron waves in Quantum materials correlate and entangle their motion at low temperatures, 
+new forms of coherent behavior develop which profoundly transform their properties. This GRC will 
+bring together new developments in correlated electron systems, bringing together new experimental 
+and theoretical developments in our understanding of entangled and interacting quantum materials.
+
+** 673th WE-Heraeus Seminar: Trends in Quantum Magnetism           :CT:CE: 
+
+| Subject tags        | CT, CE                        |
+| Dates               | [2018-06-04] to [2018-06-08]  |
+| Location: Country   | Germany                       |
+| Location: City      | Bad Honnef                    |
+| Location: Univ/Inst |                               |
+| Web link            | http://www.szfki.hu/~tqm2018/ |
+
+*** Description
+The purpose of the seminar is an exchange on recent developments and perspectives in quantum magnetism, 
+both from a theoretical and experimental point of view.
+     	    
